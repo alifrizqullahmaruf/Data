@@ -24,3 +24,4 @@ print(np.sort(a))
 
 # Menampilkan indeks yang mengurutkan array a
 print(np.argsort(a))
+1
